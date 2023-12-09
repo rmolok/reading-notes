@@ -6,4 +6,4 @@ Here are some changes
 
 Yeehaw
 
-[https://rmolok.github.io/reading-notes/] (https://rmolok.github.io/reading-notes/)
+[https://rmolok.github.io/reading-notes/](https://rmolok.github.io/reading-notes/)
